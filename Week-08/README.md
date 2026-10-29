@@ -149,5 +149,3 @@ Student-Performance-Data-Visualization/
 ├── StudentsPerformance.csv
 └── README.md
 ```
-BCA Student
-
